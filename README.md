@@ -86,6 +86,9 @@ A workshop participant should be asked to summarise and report out the key point
 The facilitator briefly outlines the personas exercise and briefly works through a set example.
 The choice of this example should be tailored to the group.
 
+The facilitator should make clear the roles that mentorship, sponsorship, networking and digital connectivity all play in identifying the best pathways for this imaginary person to follow.
+One way to reinforce these links is to point to the four sections of the room where the participants have collected the post it note comments as the personas are being discussed.
+
 <details>
   <summary>A 1st year graduate student who wants to go to a lab for 3 months to learn a new skill.</summary>
   
@@ -169,14 +172,20 @@ It is up to the facilitator whether they want to be strict on timings or let it 
 
 These workshops can be very intense and personal so this 10 minute break allows people to rest and reflect on the first half of the session.
 Participants can go to the bathroom if they'd like, or check their email.
+They are also encouraged to return to the post it notes, move them into additional clusters or add new comments as they would like.
 
 ### Discussion: Networking in the digital age
 
 *20 minutes*
 
 This part of the workshop is an open discussion (all participants together) discussion some of the goals and challenges of networking in the digital age.
+The facilitator should maintain the links to the previous discussions on mentorship, sponsorship, networking and digital connectivity throughout this session, capturing key points to remember on post it notes and adding them to the different topic areas in the room.
 
-Topics should be motivated by the post it session above, and may include:
+Many of the networking points and digital connectivity points may have already been captured in the personas exercise.
+There is no need to repeat them if so.
+The goal is to identify and discuss outstanding questions and challenges that participants have about the best ways to use digital technologies to progress their career.
+
+Topics should be motivated by the post its that were collected at the start of the workshop, and may include:
 
 * Personal website, being google-able.
 * Helping others vs helping yourself.
@@ -212,3 +221,6 @@ These discussions are not reported back to the whole group, and all participants
 
 The whole group comes back together to reflect on the workshop and identify outstanding requirements.
 
+## Acknowledgements
+
+Thank you to Hania Koever and Eugene for their feedback on early designs of this workshop.
