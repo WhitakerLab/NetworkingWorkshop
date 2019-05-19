@@ -53,7 +53,7 @@ For this part of the workshop the facilitator will introduce themselves and give
   * Meritocracy doesn't exist....even in (especially in) academia.
 * Strategic career planning.
 * Leveraging the power you have to change the world.
-* Recognising your strenghts and what you bring to a job/project/community.
+* Recognising your strengths and what you bring to a job/project/community.
 
 ### Post it session: Definitions and pain points
 
@@ -100,7 +100,7 @@ The choice of this example should be tailored to the group.
   > Maria writes to Ela when she is around six months into her PhD programme.
   > She includes her CV and a few sentences about her current research.
   > Maria suggests a concrete project for her three months in Ela's lab: transposing her lab's current analysis pipeline (many of the steps of which are done by hand) into the Ela lab's automated analysis. 
-  > Maria offers Paula authorship on the analysis that she will work on based on this analysis pipeline, and also offers to promote the automated pipeline in her home university.
+  > Maria offers Ela authorship on the analysis that she will work on based on this analysis pipeline, and also offers to promote the automated pipeline in her home university.
   >
   > Maria is clear in her email that the timeframe of her visit is quite **flexible**, but suggests a visit around **6 months from now**, at the beginning of her second year.
   > This will give her time to **apply for a travel scholarship** offered by her institute to support her visit.
@@ -139,7 +139,7 @@ Suggested personas are:
 
 * A 1st year graduate student who wants to go to a lab for 3 months to learn a new skill.
 * A final year graduate student who wants to get a postdoc position in a new research area.
-* A 2nd year graduate student who wants to get a job as a patent attourny for a pharmacutical company.
+* A 2nd year graduate student who wants to get a job as a patent attorney for a pharmacutical company.
 * A 3rd year graduate student who wants to get a 6 month internship at Deep Mind.
 * A final year graduate student who wants to get a job in government policy making (eg UK civil service, US congress etc).
 
