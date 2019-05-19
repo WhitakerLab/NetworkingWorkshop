@@ -25,19 +25,18 @@ This workshop is designed to be 2 hours long.
 It can very easily be adapted to being longer or shorter.
 Pull requests to suggest alternative timelines are very welcome.
 
-| Time (mins) | Action |
-| ----------- | ------ |
-| 0           | Welcome, introduction, code of conduct & motivation |
-| 10          | Post it session: Definitions and pain points :memo: |
-| 20          | Feedback and reflection: Definitions and pain points |
-| 25          | Demonstration: Personas exercise |
-| 30          | Personas exercise 👨‍👩‍👧‍👦 |
-| 40          | Feedback: Personas exercise |
-| 55          | Reflection exercise, or short break |
-| 65          | Networking discussion | 
-| 85          | Peer support 👨‍👩‍👧‍👦 |
-| 100         | Digital connections |
-| 115         | Reflections & close |
+| Time (mins) | Duration (mins) | Action |
+| ----------- | --------------- | ------ |
+| 0           | 10              | Welcome, introduction, code of conduct & motivation |
+| 10          | 10              | Post it session: Definitions and pain points :memo: |
+| 20          | 5               | Feedback and reflection: Definitions and pain points |
+| 25          | 5               | Demonstration: Personas exercise |
+| 30          | 10              | Personas exercise 👨‍👩‍👧‍👦 |
+| 40          | 15              | Feedback: Personas exercise |
+| 55          | 10              | Reflection exercise, or short break |
+| 65          | 20              | Discussion: Networking in the digital age | 
+| 85          | 20              | Peer support 👨‍👩‍👧‍👦 |
+| 105         | 15              | Reflections & close |
 
 ## Detailed description
 
@@ -45,13 +44,16 @@ Pull requests to suggest alternative timelines are very welcome.
 
 *10 minutes*
 
-For this part of the workshop the facilitator gives a brief overview of the next few hours.
+For this part of the workshop the facilitator will introduce themselves and give a brief overview of the next few hours.
 
 * Who I am.
 * Why I'm here.
 * Why I care.
 * Incentive structures in academia.
+  * Meritocracy doesn't exist....even in (especially in) academia.
+* Strategic career planning.
 * Leveraging the power you have to change the world.
+* Recognising your strenghts and what you bring to a job/project/community.
 
 ### Post it session: Definitions and pain points
 
@@ -85,7 +87,8 @@ The facilitator briefly outlines the personas exercise and briefly works through
 The choice of this example should be tailored to the group.
 
 <details>
-  <summary> *A 1st year graduate student who wants to go to a lab for 3 months to learn a new skill.*</summary>
+  <summary>A 1st year graduate student who wants to go to a lab for 3 months to learn a new skill.</summary>
+  
   > **Maria** is a first year graduate student in a lab which specialises in child brain development.
   > **Her supervisor** is really supportive and wants Maria to be able to do the most innovative work.
   > Maria identifies a weakness in her skill set: she is not confident working with large brain imaging datasets.
@@ -128,6 +131,8 @@ Participants are assigned into groups of 4 or 5.
 
 Each group is asked to discuss an example future goal.
 They can choose a persona from the list below, or they can create their own persona.
+The group can choose a persona who has similar challenges and goal to themselves, or on that has different requirements.
+The point of the exercise is to imagine different pathways to success and the points of view of the different stakeholders in the ecosystem.
 
 Suggested personas are:
 
@@ -163,3 +168,46 @@ It is up to the facilitator whether they want to be strict on timings or let it 
 
 These workshops can be very intense and personal so this 10 minute break allows people to rest and reflect on the first half of the session.
 Participants can go to the bathroom if they'd like, or check their email.
+
+### Discussion: Networking in the digital age
+
+*20 minutes*
+
+This part of the workshop is an open discussion (all participants together) discussion some of the goals and challenges of networking in the digital age.
+
+Topics should be motivated by the post it session above, and may include:
+
+* Personal website, being google-able.
+* Helping others vs helping yourself.
+* Horizontal vs vertical networking.
+* Introducing yourself in person and online.
+* Building relationships.
+* Short vs long term gains.
+* Social media.
+* Blogging and vlogging.
+* Informational interviews.
+* Survivor bias.
+* Tailoring your strategy to your personality and goals.
+
+### Peer support
+
+*15 minutes*
+
+Participants are assigned into groups of 3.
+
+Each person takes it in turn to present a challenge that they currently have, and the other two members of the group listen and then give their suggestions for ways to overcome the challenge.
+The timings are a strict **2 minutes** for description and **3 minutes** of brainstorming the suggestions.
+
+It is important in this session to listen thoughtfully, and be considerate that people may wish to take a different pathway to the one you would pick for yourself.
+Having said that, it is valuable to hear suggestions from different points of view.
+No one is compelled to undertake any of the suggestions from this very fast peer support session.
+The are intended as a jumping off point for future problem solving.
+
+These discussions are not reported back to the whole group, and all participants should keep any confidential information they hear in the support exercise confidential outside of the peer to peer discussion.
+
+### Reflections and close
+
+*10 minutes*
+
+The whole group comes back together to reflect on the workshop and identify outstanding requirements.
+
