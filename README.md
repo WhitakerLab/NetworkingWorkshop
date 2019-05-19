@@ -27,16 +27,16 @@ Pull requests to suggest alternative timelines are very welcome.
 
 | Time (mins) | Duration (mins) | Action |
 | ----------- | --------------- | ------ |
-| 0           | 10              | Welcome, introduction, code of conduct & motivation |
-| 10          | 10              | Post it session: Definitions and pain points :memo: |
-| 20          | 5               | Feedback and reflection: Definitions and pain points |
-| 25          | 5               | Demonstration: Personas exercise |
-| 30          | 10              | Personas exercise 👨‍👩‍👧‍👦 |
-| 40          | 15              | Feedback: Personas exercise |
-| 55          | 10              | Reflection exercise, or short break |
-| 65          | 20              | Discussion: Networking in the digital age | 
-| 85          | 20              | Peer support 👨‍👩‍👧‍👦 |
-| 105         | 15              | Reflections & close |
+| 0           | 10              | [Welcome, introduction, code of conduct & motivation](#welcome-introduction-code-of-conduct-motivation) |
+| 10          | 10              | [Post it session: Definitions and pain points](#post-it-session-definitions-and-pain-points) :memo: |
+| 20          | 5               | [Feedback and reflection: Definitions and pain points](#feedback-and-reflection-definitions-and-pain-points) |
+| 25          | 5               | [Demonstration: Personas exercise](#demonstration-personas-exercise) |
+| 30          | 10              | [Personas exercise](#personas-exercise) 👨‍👩‍👧‍👦 |
+| 40          | 15              | [Feedback: Personas exercise](#feedback-personas-exercise) |
+| 55          | 10              | [Reflections or short break](#reflections-or-short-break) |
+| 65          | 20              | [Discussion: Networking in the digital age](#discussion-networking-in-the-digital-age) | 
+| 85          | 20              | [Peer support](#peer-support) 👨‍👩‍👧‍👦 |
+| 105         | 15              | [Reflections & close](#reflections-and-close) |
 
 ## Detailed description
 
