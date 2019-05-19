@@ -4,7 +4,7 @@ Notes and resources for workshop: *Networking for success - mentorship, sponsors
 
 This workshop was developed by Kirstie Whitaker for International Max Planck Research School for Translational Psychiatry (IMPRS-TP) graduate student retreat in May 2019.
 
-It is available under a [CC-BY license](LICENSE.md).
+It is available under a [CC-BY license](LICENSE.md) which means you are welcome to re-use and re-mix any of these materials so long as you credit Dr Kirstie Whitaker.
 
 ## Abstract
 
@@ -51,17 +51,17 @@ For this part of the workshop the facilitator gives a brief overview of the next
 * Why I'm here.
 * Why I care.
 * Incentive structures in academia.
-* 
+* Leveraging the power you have to change the world.
 
 ### Post it session: Definitions and pain points
 
 *10 minutes*
 
-All participants are asked to write down on separate post it notes a **defintion** and a **difficulty** that they have for the following topics:
+All participants are asked to write down on separate post it notes a **definition** and a **difficulty** that they have for the following topics:
 
 * Networking
 * Mentorship
-* Sponsortship
+* Sponsorship
 * Digital connectivity
 
 The best way to do this exercise is to have four zones already set up in the room, one for each of the different topics.
@@ -83,6 +83,42 @@ A workshop participant should be asked to summarise and report out the key point
 
 The facilitator briefly outlines the personas exercise and briefly works through a set example.
 The choice of this example should be tailored to the group.
+
+<details>
+  <summary> *A 1st year graduate student who wants to go to a lab for 3 months to learn a new skill.*</summary>
+  > **Maria** is a first year graduate student in a lab which specialises in child brain development.
+  > **Her supervisor** is really supportive and wants Maria to be able to do the most innovative work.
+  > Maria identifies a weakness in her skill set: she is not confident working with large brain imaging datasets.
+  > She knows that **Dr Paula Ela**, a research scientist at a data science institute in the USA, does a lot of work with these types of data.
+  > Maria wants to work with Ela to learn these skills and build up her confidence working with large datasets.
+  > She is also excited about experiencing a different university setting and living in a new country for a short period of time.
+  >
+  > Maria writes to Ela when she is around six months into her PhD programme.
+  > She includes her CV and a few sentences about her current research.
+  > Maria suggests a concrete project for her three months in Ela's lab: transposing her lab's current analysis pipeline (many of the steps of which are done by hand) into the Ela lab's automated analysis. 
+  > Maria offers Paula authorship on the analysis that she will work on based on this analysis pipeline, and also offers to promote the automated pipeline in her home university.
+  >
+  > Maria is clear in her email that the timeframe of her visit is quite **flexible**, but suggests a visit around **6 months from now**, at the beginning of her second year.
+  > This will give her time to **apply for a travel scholarship** offered by her institute to support her visit.
+  > She asks Dr Ela if she has any recommendations for adjustments to her proposed schedule or project plan.
+  > 
+  > Paula Ela says yes to Maria's visit because she is a junior faculty in a data science institute working mostly on methods development.
+  > It is very helpful to her to have external collaborations that apply her software to interesting questions.
+  > As Maria will be self-funded, it seems worth the time investment to build up this link.
+  > Ela asks one of the postdoctoral researarchers in her lab, **Luka Vanni**, if he would be interested in supervising Maria on a day to day basis.
+  > Luka is happy to help **promote the lab's work** and looks forward to collaborating with a new student.
+  >
+  > There are quite a few failure points in this plan, most of which can be overcome by having some back up options in development while the main plan is being developed.
+  > Maria will need to get a visa to visit the USA.
+  > She needs to be successful in recieving her travel scholarship.
+  > Maria's supervisor must be happy with adding these two new authors to a future publication.
+  > It is also hard to get settled into a new place for a short period of time, and Luka and Paula will be busy once she arrives so it may also take time to get her started.
+  >
+  > The benefits are high though.
+  > Maria can build up her collaboration network and bring back the skills that she has learned to her current lab.
+  > She still has time in her degree to develop the skills and incorporate them into future collaborations.
+  > It is likely that this three month exchange will give her a boost in her graduate studies and introduce her to new tools and practices that she can not learn in her home institute.
+</details>
 
 ### Personas & pathways exercise
 
