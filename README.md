@@ -89,6 +89,7 @@ The choice of this example should be tailored to the group.
 <details>
   <summary>A 1st year graduate student who wants to go to a lab for 3 months to learn a new skill.</summary>
   
+  >
   > **Maria** is a first year graduate student in a lab which specialises in child brain development.
   > **Her supervisor** is really supportive and wants Maria to be able to do the most innovative work.
   > Maria identifies a weakness in her skill set: she is not confident working with large brain imaging datasets.
