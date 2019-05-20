@@ -223,4 +223,4 @@ The whole group comes back together to reflect on the workshop and identify outs
 
 ## Acknowledgements
 
-Thank you to Hania Koever and Eugene for their feedback on early designs of this workshop.
+Thank you to Hania Koever and Eugen Visan for their feedback on early designs of this workshop.
