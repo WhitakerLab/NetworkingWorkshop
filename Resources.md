@@ -8,6 +8,7 @@ Pull requests to enhance this list are always welcome.
 
 * **Why Women Need Career Sponsors More Than Mentors**
   * https://www.fastcompany.com/3050430/why-women-need-career-sponsors-more-than-mentors
+* https://aeon.co/ideas/a-belief-in-meritocracy-is-not-only-false-its-bad-for-you
 
 ## Networking
 
